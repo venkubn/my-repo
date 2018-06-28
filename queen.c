@@ -6,7 +6,7 @@ void printsolution(int ,int[]);
 void main()
 {
 
-int n;
+int n,m;
 printf("entre n");
 scanf("%d",&n);
 nqueen(n);
